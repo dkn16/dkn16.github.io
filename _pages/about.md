@@ -23,6 +23,7 @@ Hello! My name is Kangning Diao (刁康宁), and I am currently pursuing my Ph.D
 Outside of my academic pursuits, I have cultivated several hobbies. As a Tsinghua student, I prioritize physical fitness and actively participate in Taekwondo as a member of the university team. I dedicate an amount of time each week to exercising and maintaining a healthy lifestyle. Additionally, I have a keen interest in playing the guitar, although I still consider myself a novice. Lastly, I thoroughly enjoy cooking, particularly Chinese cuisines. If you ever have an interest in sampling some of my culinary creations, feel free to reach out to me!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
@@ -30,3 +31,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.=======
 In the internet, I also interested in aviations and electronic games. Boeing 787 is my favorite plane, while PKX is my favorite airport. I also love COMAC C919, and really wish it could reach a success. I'm a fan of JRPG, currenly playing *Honkai: Star rail* by Mihoyo, though my favorite game is *Persona 5 Royal* .
 >>>>>>> c993cdf (Add posts)
+=======
+On the internet, I have a keen interest in aviation and electronic games. My favorite plane is the Boeing 787, and my preferred airport is PKX. I also admire the COMAC C919 and hope it achieves great success. As a fan of JRPGs, I'm currently playing "Honkai: Star Rail" by Mihoyo, although my all-time favorite game is "Persona 5 Royal".
+>>>>>>> 5a2df6e (better math)
