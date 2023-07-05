@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: My repos on utilizing statistical methods to extract information from 21 cm observations.
 nav: true
 nav_order: 4
 ---
