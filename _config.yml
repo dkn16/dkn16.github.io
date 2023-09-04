@@ -142,8 +142,8 @@ related_blog_posts:
 giscus:
   repo: dkn16/dkn16.github.io      # <your-github-user-name>/<your-github-repo-name>
   repo_id: "R_kgDOJ3sY1A"
-  data-category: "Announcements"
-  data-category-id: "DIC_kwDOJ3sY1M4CZD_s"
+  category: "Announcements"
+  category_id: "DIC_kwDOJ3sY1M4CZD_s"
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
@@ -413,9 +413,10 @@ medium_zoom:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+#jekyll_get_json:
+#  - data: resume
+#    json: assets/json/resume.json # it can also be an url
+
 jsonresume:
   - basics
   - work
