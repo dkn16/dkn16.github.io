@@ -6,7 +6,7 @@ subtitle: <a href='#'>Depart of Astronomy, Tsinghua University</a>. dkn16@foxmai
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: My_pig.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>S612, Mong Man-Wai Science Bulding</p>
