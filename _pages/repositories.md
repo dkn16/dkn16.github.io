@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: My repos on utilizing statistical methods to extract information from 21 cm observations.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## GitHub users
