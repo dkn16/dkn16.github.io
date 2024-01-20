@@ -207,6 +207,7 @@ include:
   - _pages/about.md
   - _pages/publications.md
   - _pages/repositories.md
+  - _pages/blog.md
   - _pages/cv.md
 
 exclude:
