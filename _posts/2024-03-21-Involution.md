@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于内卷的世界
-date: 2023-03-08 16:05:00-0800
+date: 2024-03-08 16:05:00-0800
 description: 不敢谬论内卷的成因和解决办法，但我相信只要一直走下去，哪怕摆烂，也能看到变好的那一天。
 categories: Thoughts
 giscus_comments: true
