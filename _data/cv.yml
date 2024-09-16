@@ -21,7 +21,7 @@
       institution: <a href="https://bccp.berkeley.edu">Berkeley Center for Cosmological Physics</a>, UC Berkeley, Berkeley CA, U.S.
       year: 2024-2025
       description:
-        - Hosted by Prof. Uros Seljak
+        - Adviced by Prof. Uros Seljak
 
     - title: Undergraduate
       institution: Department of Physics, Tsinghua University, Beijing, China
@@ -30,11 +30,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Statistical methods in 21 cm
+    - title: Statistical methods and Cosmology
       items: 
-        - Utilizing new sampling methods to infer the true 21 cm signal
-        - Building gradient-based EoR 21 cm models
-        - Developing emulation techniques with machine-learning
+        - Separating foregrounds from 21 cm observations
+        - Building gradient-based complex models and simulations
+        - Developing emulation and density estimation techniques with machine-learning
+        - Validation of the AI models
 
 
 - title: Other Interests
