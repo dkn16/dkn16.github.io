@@ -21,7 +21,7 @@
       institution: <a href="https://bccp.berkeley.edu">Berkeley Center for Cosmological Physics</a>, UC Berkeley, Berkeley CA, U.S.
       year: 2024-2025
       description:
-        - Adviced by Prof. Uros Seljak
+        - Advised by Prof. Uros Seljak
 
     - title: Undergraduate
       institution: Department of Physics, Tsinghua University, Beijing, China
@@ -32,10 +32,8 @@
   contents:
     - title: Statistical methods and Cosmology
       items: 
-        - Separating foregrounds from 21 cm observations
-        - Building gradient-based complex models and simulations
-        - Developing emulation and density estimation techniques with machine-learning
-        - Validation of the AI models
+        - Cosmology with differentiable forward simulations and fast sampling methods
+        - Detecting the bias between the modeled and the observed universe
 
 
 - title: Other Interests
