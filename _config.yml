@@ -21,7 +21,8 @@ icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name
 url: https://dkn16.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path:
+back_to_top: true # set to false to disable the back to top button  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -49,6 +50,9 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
+search_enabled: true
+socials_in_search: true
+bib_search: true
 
 # Dimensions
 max_width: 800px
@@ -309,6 +313,8 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
+  google_scholar: true # Google Scholar badge
+  inspirehep: true # Inspire HEP badge
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
