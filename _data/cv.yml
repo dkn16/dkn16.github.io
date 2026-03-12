@@ -40,11 +40,10 @@
   type: nested_list
   contents:
     - title: Statistical methods and Cosmology
-      items: 
+      items:
         - Cosmology with differentiable forward simulations and fast sampling methods
         - Detecting the bias between the modeled and the observed universe
         - Stochastic sampling methods in high-dimensional parameter space
-
 
 - title: Other Interests
   type: list

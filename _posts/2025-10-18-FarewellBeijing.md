@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  再见北京
+title: 再见北京
 date: 2025-10-18 16:05:00-0800
-description: 
+description:
 categories: Stories
 giscus_comments: true
 related_posts: false
