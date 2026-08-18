@@ -34,7 +34,10 @@
       "startDate": "2025-11-01",
       "endDate": "2027-10-01",
       "summary": "Berkeley Center for Cosmological Physics postdoctoral fellow.",
-      "highlights": ["Advised by Prof. Uros Seljak", "Research in cosmology, weak lensing, 21 cm line, Galactic synchrotron, differentiable simulations, and machine learning"]
+      "highlights": [
+        "Advised by Prof. Uros Seljak",
+        "Research in cosmology, weak lensing, 21 cm line, Galactic synchrotron, differentiable simulations, and machine learning"
+      ]
     }
   ],
   "education": [
