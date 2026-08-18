@@ -8,15 +8,21 @@ profile:
   align: right
   image: Me.JPG
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>Campbell Hall 341</p>
     <p>UC Berkeley</p>
     <p>Berkeley CA 94720, U.S. </p>
 
-news: false # includes a list of news items
-latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: false # includes a list of news items
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello! My name is Kangning Diao (刁康宁), and I am currently a postdoc at BCCP, UC Berkeley working with Prof. Uros Seljak. I obtained my Ph.D. under the supervision of [Prof. Yi Mao](http://i.astro.tsinghua.edu.cn/~ymao/) at Tsinghua University, with a focus on statistical methods in 21 cm cosmology. My research spanning from 21 cm signal, Galactic synchrotron to weak lensing and exoplanets, with a particular emphasis on employing statistical methods. In terms of programming, I am proficient in Python and frequently utilize packages such as `JAX` and `PyTorch`.
